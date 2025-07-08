@@ -1,11 +1,17 @@
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: just-the-docs/just-the-docs
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 minima:
   skin: auto
-title: Mastering The C# Programming Language
-description: A repository of exercises to support the training.
-author: Ts. Daniel Vong
-twitter_username: 9W8VWL
-github_username:  dvwl
-markdown: GFM
+title: AI-Powered Data Analytics Foundation Course
+description: This repository contains hands-on exercises and materials for the AI-Powered Data Analytics Foundation Course by Carbon GPT Sdn Bhd.
+author: Dr Matthew Wong, Ts. Daniel Vong, Ts. Gabriel Ling
+github_username: dvwl
+
+# Just the Docs specific settings
+search_enabled: true
+heading_anchors: true
+nav_sort: case_insensitive
+
+# Footer content
+footer_content: "Copyright &copy; 2024 Carbon GPT Sdn Bhd. Distributed by an <a href=\"https://github.com/dvwl/ai-powered-data-analytics-course/tree/main/LICENSE.txt\">MIT license.</a>"
