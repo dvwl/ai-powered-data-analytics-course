@@ -1,0 +1,21 @@
+employee_id,first_name,last_name,location,hire_date,position,hourly_wage,department,manager_id,performance_rating,total_hours_worked
+1,Sarah,Johnson,Downtown,2023-03-15,Store Manager,25.50,Operations,NULL,Excellent,1840
+2,Mike,Chen,Downtown,2023-04-01,Sales Associate,18.75,Sales,1,Good,1920
+3,Emily,Rodriguez,Downtown,2023-05-10,Sales Associate,17.50,Sales,1,Excellent,1680
+4,David,Thompson,Beach Park,2023-02-20,Store Manager,26.00,Operations,NULL,Good,1900
+5,Lisa,Wong,Beach Park,2023-04-15,Sales Associate,19.25,Sales,4,Excellent,1750
+6,James,Brown,Beach Park,2023-06-01,Sales Associate,16.50,Sales,4,Fair,1200
+7,Jessica,Taylor,Mall Central,2023-01-10,Store Manager,24.75,Operations,NULL,Excellent,2000
+8,Carlos,Martinez,Mall Central,2023-03-20,Sales Associate,18.00,Sales,7,Good,1650
+9,Amanda,Wilson,Mall Central,2023-05-05,Sales Associate,17.25,Sales,7,Good,1580
+10,Ryan,Davis,Downtown,2023-04-20,Shift Supervisor,22.00,Operations,1,Good,1720
+11,Nicole,Garcia,Beach Park,2023-05-15,Shift Supervisor,21.50,Operations,4,Excellent,1650
+12,Kevin,Anderson,Mall Central,2023-02-28,Shift Supervisor,21.75,Operations,7,Good,1800
+13,Rachel,Miller,Downtown,2023-06-10,Sales Associate,16.75,Sales,1,Good,960
+14,Brandon,Lee,Beach Park,2023-03-25,Sales Associate,18.50,Sales,4,Excellent,1440
+15,Stephanie,Clark,Mall Central,2023-04-12,Sales Associate,17.00,Sales,7,Fair,1320
+16,Thomas,Hall,Downtown,2023-01-15,Assistant Manager,23.25,Operations,1,Excellent,1880
+17,Jennifer,Lewis,Beach Park,2023-02-10,Assistant Manager,23.50,Operations,4,Good,1820
+18,Christopher,Walker,Mall Central,2023-03-05,Assistant Manager,23.00,Operations,7,Good,1760
+19,Ashley,Young,Downtown,2023-05-20,Sales Associate,17.75,Sales,1,Good,1280
+20,Matthew,King,Beach Park,2023-06-15,Sales Associate,16.25,Sales,4,Fair,800

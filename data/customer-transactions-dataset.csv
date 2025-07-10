@@ -1,0 +1,50 @@
+id,date,location,employee_id,transaction_time,items_purchased,total_spent,customer_age_group,payment_method,satisfaction_rating,return_customer,promotional_code_used,weather_sensitive
+1001,2024-01-15,Downtown,2,10:30,3,15.75,25-34,Credit Card,5,No,NONE,No
+1002,2024-01-15,Downtown,3,11:15,2,11.50,18-24,Cash,4,No,NONE,Yes
+1003,2024-01-15,Beach Park,5,12:00,4,22.00,35-44,Credit Card,5,Yes,SUMMER10,Yes
+1004,2024-01-16,Mall Central,8,14:30,1,5.25,45-54,Debit Card,3,No,NONE,No
+1005,2024-01-16,Downtown,10,15:45,5,28.75,25-34,Credit Card,5,Yes,NONE,Yes
+1006,2024-01-17,Beach Park,14,09:15,2,12.50,18-24,Cash,4,No,NONE,Yes
+1007,2024-01-17,Mall Central,12,13:20,3,17.25,35-44,Credit Card,5,Yes,FAMILY15,No
+1008,2024-01-18,Downtown,16,16:10,1,6.00,55+,Cash,4,No,NONE,No
+1009,2024-01-19,Beach Park,11,11:45,4,24.00,25-34,Debit Card,5,Yes,SUMMER10,Yes
+1010,2024-01-19,Mall Central,18,14:00,2,13.50,18-24,Credit Card,4,No,NONE,Yes
+1011,2024-01-20,Downtown,1,10:00,6,35.50,35-44,Credit Card,5,Yes,BULK20,Yes
+1012,2024-01-21,Beach Park,4,12:30,3,18.75,25-34,Cash,4,Yes,NONE,No
+1013,2024-01-22,Mall Central,7,15:15,2,12.00,45-54,Debit Card,3,No,NONE,No
+1014,2024-01-23,Downtown,19,16:45,4,23.00,18-24,Credit Card,5,No,STUDENT10,Yes
+1015,2024-01-24,Beach Park,6,11:00,1,5.75,55+,Cash,2,No,NONE,No
+1016,2024-01-25,Mall Central,15,13:45,5,29.25,35-44,Credit Card,5,Yes,FAMILY15,Yes
+1017,2024-01-26,Downtown,13,10:30,3,17.75,25-34,Debit Card,4,Yes,NONE,Yes
+1018,2024-01-27,Beach Park,20,14:15,2,11.50,18-24,Cash,4,No,NONE,Yes
+1019,2024-01-28,Mall Central,9,12:00,4,25.00,35-44,Credit Card,5,Yes,BULK20,No
+1020,2024-01-29,Downtown,2,15:30,1,6.25,45-54,Cash,3,No,NONE,No
+1021,2024-02-01,Beach Park,5,09:45,3,18.50,25-34,Credit Card,5,Yes,NONE,Yes
+1022,2024-02-02,Mall Central,8,13:15,2,14.75,35-44,Debit Card,4,No,NONE,No
+1023,2024-02-05,Downtown,1,11:20,7,42.25,45-54,Credit Card,5,Yes,BULK20,Yes
+1024,2024-02-06,Beach Park,14,14:45,4,28.00,18-24,Cash,5,No,STUDENT10,Yes
+1025,2024-02-09,Mall Central,12,10:15,2,13.25,55+,Cash,3,No,NONE,No
+1026,2024-02-14,Downtown,16,15:30,6,39.50,25-34,Credit Card,5,Yes,VALENTINE15,Yes
+1027,2024-02-20,Beach Park,11,12:30,5,31.75,35-44,Debit Card,5,Yes,NONE,Yes
+1028,2024-02-25,Mall Central,18,16:00,3,19.25,18-24,Credit Card,4,No,NONE,Yes
+1029,2024-03-01,Downtown,2,10:45,4,26.00,25-34,Cash,4,Yes,NONE,No
+1030,2024-03-08,Beach Park,5,13:20,6,38.75,35-44,Credit Card,5,Yes,SPRING20,Yes
+1031,2024-03-13,Mall Central,7,11:30,3,21.50,45-54,Debit Card,4,No,NONE,No
+1032,2024-03-22,Downtown,10,14:15,8,52.00,25-34,Credit Card,5,Yes,BULK20,Yes
+1033,2024-03-29,Beach Park,14,09:30,4,29.25,18-24,Cash,5,No,STUDENT10,Yes
+1034,2024-04-01,Mall Central,12,15:45,2,15.75,55+,Cash,3,No,NONE,No
+1035,2024-04-09,Downtown,16,12:00,5,33.50,35-44,Credit Card,5,Yes,NONE,Yes
+1036,2024-04-13,Beach Park,6,10:30,7,46.25,25-34,Debit Card,5,Yes,SPRING20,Yes
+1037,2024-04-22,Mall Central,18,16:30,3,22.75,45-54,Credit Card,4,No,NONE,No
+1038,2024-04-30,Downtown,1,11:45,6,41.50,25-34,Credit Card,5,Yes,BULK20,Yes
+1039,2024-05-01,Beach Park,11,13:15,8,54.00,35-44,Debit Card,5,Yes,MAYDAY25,Yes
+1040,2024-05-07,Mall Central,15,14:30,4,28.75,18-24,Cash,5,No,STUDENT10,Yes
+1041,2024-05-16,Downtown,19,10:00,9,63.25,25-34,Credit Card,5,Yes,SUMMER10,Yes
+1042,2024-05-22,Beach Park,20,12:45,5,37.50,35-44,Credit Card,5,Yes,NONE,Yes
+1043,2024-05-27,Mall Central,9,15:15,3,24.25,45-54,Debit Card,4,No,NONE,No
+1044,2024-06-03,Downtown,2,11:30,7,49.75,25-34,Cash,5,Yes,SUMMER10,Yes
+1045,2024-06-12,Beach Park,4,14:00,6,42.50,35-44,Credit Card,5,Yes,NONE,Yes
+1046,2024-06-17,Mall Central,7,09:45,4,32.00,18-24,Debit Card,5,No,STUDENT10,Yes
+1047,2024-06-24,Downtown,13,13:30,8,58.75,25-34,Credit Card,5,Yes,SUMMER10,Yes
+1048,2024-06-29,Beach Park,17,16:15,5,39.25,35-44,Cash,5,Yes,NONE,Yes
+1049,2024-06-30,Mall Central,8,12:15,3,26.75,45-54,Credit Card,4,No,NONE,No
