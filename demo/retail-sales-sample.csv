@@ -1,0 +1,21 @@
+name,product,price,quantity,date,category,sales_rep,region,customer_satisfaction,return_rate
+Mountain Peak Retail,Premium Ice Cream,12.99,45,2024-03-15,Frozen Foods,Sarah Johnson,North,4.2,0.05
+Sunny Valley Store,Artisan Gelato,15.50,23,2024-03-16,Desserts,Mike Chen,West,4.8,0.02
+City Center Market,Budget Ice Cream,6.99,78,2024-03-17,Frozen Foods,Anna Rodriguez,East,3.5,0.12
+Coastal Grocers,Premium Sorbet,11.25,34,2024-03-18,Frozen Foods,David Kim,South,4.1,0.08
+Downtown Deli,Classic Vanilla,8.75,56,2024-03-19,Desserts,Lisa Thompson,North,4.0,0.06
+Riverside Market,Chocolate Fudge,9.99,67,2024-03-20,Frozen Foods,Tom Wilson,West,4.3,0.04
+Hill Country Store,Strawberry Delight,10.50,41,2024-03-21,Desserts,Sarah Johnson,East,4.6,0.03
+Metro Marketplace,Cookies & Cream,11.99,52,2024-03-22,Frozen Foods,Mike Chen,South,4.4,0.05
+Lakeside Grocers,Mint Chocolate,13.25,29,2024-03-23,Desserts,Anna Rodriguez,North,4.7,0.02
+Valley View Market,Caramel Swirl,12.75,38,2024-03-24,Frozen Foods,David Kim,West,4.2,0.07
+Old Town Retail,Pistachio Ice Cream,14.99,31,2024-03-25,Premium,Lisa Thompson,East,4.5,0.04
+Harbor Store,Lemon Sorbet,9.25,47,2024-03-26,Frozen Foods,Tom Wilson,South,3.9,0.09
+Garden Center Market,Berry Medley,11.50,43,2024-03-27,Desserts,Sarah Johnson,North,4.1,0.06
+Westside Grocers,Rocky Road,10.99,59,2024-03-28,Frozen Foods,Mike Chen,West,4.0,0.08
+Central Plaza Store,Neapolitan,8.99,71,2024-03-29,Frozen Foods,Anna Rodriguez,East,3.8,0.10
+Northside Market,Coconut Ice Cream,13.50,26,2024-03-30,Premium,David Kim,South,4.6,0.03
+Southpoint Retail,Coffee Ice Cream,12.25,35,2024-03-31,Desserts,Lisa Thompson,North,4.3,0.05
+Eastgate Store,Peanut Butter Cup,11.75,48,2024-04-01,Frozen Foods,Tom Wilson,West,4.2,0.06
+Westgate Market,Butter Pecan,13.99,32,2024-04-02,Premium,Sarah Johnson,East,4.7,0.02
+Midtown Grocers,Chocolate Chip,9.75,63,2024-04-03,Frozen Foods,Mike Chen,South,3.9,0.07

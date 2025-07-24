@@ -1,0 +1,26 @@
+customer_id,transaction_id,product_name,category,price,quantity,purchase_date,customer_age,customer_region,payment_method,discount_applied,revenue
+C001,T001,Premium Vanilla Bean Ice Cream,Premium,14.99,2,2024-03-15,34,North,Credit Card,0.1,26.98
+C002,T002,Chocolate Fudge Delight,Classic,9.99,3,2024-03-16,28,South,Debit Card,0.0,29.97
+C003,T003,Strawberry Swirl Sorbet,Sorbet,11.50,1,2024-03-17,45,East,Cash,0.05,10.93
+C004,T004,Mint Chocolate Chip,Classic,10.99,4,2024-03-18,31,West,Credit Card,0.15,37.37
+C005,T005,Artisan Pistachio,Premium,16.75,1,2024-03-19,52,North,Apple Pay,0.0,16.75
+C006,T006,Classic Neapolitan,Classic,8.99,2,2024-03-20,39,South,Credit Card,0.2,14.38
+C007,T007,Lemon Lime Sorbet,Sorbet,9.25,3,2024-03-21,26,East,Debit Card,0.0,27.75
+C008,T008,Cookies and Cream,Classic,11.99,2,2024-03-22,33,West,Cash,0.1,21.58
+C009,T009,Salted Caramel Premium,Premium,15.50,1,2024-03-23,47,North,Credit Card,0.0,15.50
+C010,T010,Rocky Road Adventure,Classic,12.25,3,2024-03-24,29,South,Google Pay,0.05,34.91
+C011,T011,Mango Passion Sorbet,Sorbet,10.75,2,2024-03-25,36,East,Credit Card,0.0,21.50
+C012,T012,Birthday Cake Special,Premium,13.99,1,2024-03-26,41,West,Debit Card,0.1,12.59
+C013,T013,Butter Pecan Classic,Classic,9.75,4,2024-03-27,55,North,Cash,0.15,33.15
+C014,T014,Coconut Lime Sorbet,Sorbet,11.25,2,2024-03-28,32,South,Apple Pay,0.0,22.50
+C015,T015,Double Chocolate Premium,Premium,14.25,1,2024-03-29,38,East,Credit Card,0.05,13.54
+C016,T016,Vanilla Bean Classic,Classic,8.50,3,2024-03-30,44,West,Debit Card,0.2,20.40
+C017,T017,Raspberry Lemon Sorbet,Sorbet,10.50,2,2024-04-01,27,North,Google Pay,0.0,21.00
+C018,T018,Tiramisu Premium,Premium,16.99,1,2024-04-02,49,South,Credit Card,0.0,16.99
+C019,T019,Peanut Butter Cup,Classic,11.50,2,2024-04-03,35,East,Cash,0.1,20.70
+C020,T020,Orange Creamsicle,Sorbet,9.99,3,2024-04-04,30,West,Apple Pay,0.05,28.47
+C021,T021,Espresso Chip Premium,Premium,15.75,1,2024-04-05,42,North,Credit Card,0.0,15.75
+C022,T022,Strawberry Classic,Classic,8.75,4,2024-04-06,37,South,Debit Card,0.15,29.75
+C023,T023,Watermelon Sorbet,Sorbet,10.25,2,2024-04-07,28,East,Google Pay,0.0,20.50
+C024,T024,Caramel Swirl Premium,Premium,14.50,1,2024-04-08,51,West,Cash,0.05,13.78
+C025,T025,Chocolate Mint Classic,Classic,10.25,3,2024-04-09,33,North,Credit Card,0.1,27.68

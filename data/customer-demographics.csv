@@ -1,0 +1,41 @@
+customer_id,first_name,last_name,email,phone,age,gender,city,state,country,registration_date,customer_segment,annual_income
+C001,John,Smith,john.smith@email.com,555-0101,34,Male,New York,NY,USA,2023-05-15,Premium,75000
+C002,Sarah,,sarah.j@email.com,555-0102,28,Female,Miami,FL,USA,2023-06-20,Standard,52000
+C003,Michael,Johnson,m.johnson@email.com,,45,Male,Chicago,IL,USA,2023-07-10,Premium,89000
+C004,Emily,Davis,emily.davis@email.com,555-0104,31,Female,Seattle,WA,USA,,Standard,61000
+C005,Robert,Wilson,r.wilson@email.com,555-0105,52,Male,Boston,MA,USA,2023-09-05,Premium,125000
+C006,,Brown,lisa.brown@email.com,555-0106,39,Female,Dallas,TX,USA,2023-10-12,Standard,
+C007,David,Taylor,david.t@email.com,555-0107,26,Male,Phoenix,AZ,USA,2023-11-08,Basic,38000
+C008,Jessica,Anderson,j.anderson@email.com,,33,Female,Denver,CO,USA,2023-12-01,Standard,67000
+C009,Christopher,Thomas,chris.thomas@email.com,555-0109,47,Male,Atlanta,GA,USA,2024-01-15,Premium,98000
+C010,Amanda,Jackson,amanda.j@email.com,555-0110,29,,Portland,OR,USA,2024-02-20,Standard,55000
+C011,Matthew,White,m.white@email.com,555-0111,41,Male,Las Vegas,NV,USA,2024-03-10,Premium,82000
+C012,Ashley,Harris,ashley.h@email.com,555-0112,35,Female,,CA,USA,2024-04-05,Standard,71000
+C013,Joshua,Martin,j.martin@email.com,,42,Male,San Diego,CA,USA,2024-05-12,Premium,105000
+C014,Jennifer,Thompson,jennifer.t@email.com,555-0114,30,Female,Austin,TX,USA,2024-06-18,Standard,58000
+C015,Andrew,Garcia,a.garcia@email.com,555-0115,48,Male,Orlando,FL,USA,,Premium,115000
+C016,Melissa,Martinez,melissa.m@email.com,555-0116,27,Female,Charlotte,NC,USA,2024-08-09,Basic,42000
+C017,Ryan,Robinson,ryan.r@email.com,555-0117,36,,Tampa,FL,USA,2024-09-14,Standard,64000
+C018,Stephanie,Clark,s.clark@email.com,555-0118,44,Female,Nashville,TN,USA,2024-10-20,Premium,91000
+C019,Justin,Rodriguez,justin.r@email.com,,32,Male,Memphis,TN,USA,2024-11-25,Standard,53000
+C020,Nicole,Lewis,nicole.l@email.com,555-0120,37,Female,Louisville,KY,USA,2024-12-30,Premium,87000
+C021,Brandon,Lee,b.lee@email.com,555-0121,25,Male,Richmond,VA,USA,2023-04-18,Basic,35000
+C022,,Walker,hall@email.com,555-0122,43,Female,Norfolk,VA,USA,2023-05-23,Standard,68000
+C023,Tyler,Allen,tyler.a@email.com,555-0123,38,Male,Raleigh,NC,USA,2023-06-28,Premium,95000
+C024,Rachel,Young,rachel.y@email.com,,29,Female,Greensboro,NC,USA,2023-07-15,Standard,56000
+C025,Kevin,Hernandez,k.hernandez@email.com,555-0125,50,Male,Winston-Salem,NC,USA,2023-08-20,Premium,112000
+C026,Laura,King,laura.k@email.com,555-0126,33,Female,Fayetteville,NC,USA,,Standard,62000
+C027,Jason,Wright,j.wright@email.com,555-0127,40,Male,Durham,NC,USA,2023-10-10,Premium,88000
+C028,Michelle,Lopez,michelle.l@email.com,555-0128,31,,Chapel Hill,NC,USA,2023-11-15,Standard,59000
+C029,Daniel,Hill,daniel.h@email.com,555-0129,46,Male,Asheville,NC,USA,2023-12-20,Premium,103000
+C030,Kimberly,Scott,k.scott@email.com,,34,Female,Wilmington,NC,USA,2024-01-25,Standard,65000
+C031,Eric,Green,eric.g@email.com,555-0131,28,Male,High Point,NC,USA,2024-02-28,Basic,41000
+C032,Angela,Adams,angela.a@email.com,555-0132,45,Female,Concord,NC,USA,2024-03-15,Premium,96000
+C033,Jeffrey,Baker,j.baker@email.com,555-0133,39,,Gastonia,NC,USA,2024-04-20,Standard,73000
+C034,Brenda,Gonzalez,brenda.g@email.com,555-0134,52,Female,Kannapolis,NC,USA,2024-05-25,Premium,118000
+C035,Patrick,Nelson,p.nelson@email.com,,35,Male,Hickory,NC,USA,2024-06-30,Standard,67000
+C036,Samantha,Carter,samantha.c@email.com,555-0136,26,Female,Huntersville,NC,USA,2024-07-15,Basic,39000
+C037,Gregory,Mitchell,g.mitchell@email.com,555-0137,41,Male,Monroe,NC,USA,,Premium,89000
+C038,Christine,Perez,christine.p@email.com,555-0138,37,Female,Salisbury,NC,USA,2024-09-10,Standard,71000
+C039,Jonathan,Roberts,j.roberts@email.com,555-0139,49,,Statesville,NC,USA,2024-10-15,Premium,107000
+C040,Deborah,Turner,deborah.t@email.com,555-0140,33,Female,Mooresville,NC,USA,2024-11-20,Standard,63000
