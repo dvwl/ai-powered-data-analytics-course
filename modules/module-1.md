@@ -47,25 +47,24 @@ Prepare the dataset for analysis by cleaning text, formatting columns, and creat
    * Ensure `Date` column (A) is formatted as `Date` type.
    * Ensure `Temperature (F)` (C), `Ice-cream Price ($)` (D), `Number of Tourists (thousands)` (E), and `Ice Cream Sales ($,thousands)` (F) are `Number` types.
 
-4. **Create a "Temperature Category" Column** (Column H):
+4. **Create a "Temperature Category" Column** (Column I):
 
    * Formula: `=IF(C2>=85, "Hot", IF(C2>=70, "Warm", "Cool"))`
    * This categorizes temperatures: Cool (<70°F), Warm (70-84°F), Hot (≥85°F)
 
-5. **Create a "Temperature (C)" Column** (Column I):
+5. **Create a "Temperature (C)" Column** (Column J):
 
    * Formula: `=(C2-32)*5/9` to convert Fahrenheit to Celsius
    * Format the column to 1 decimal place
 
-6. **Create a "Temperature Toggle" Feature** (Columns J-K):
+6. **Create a "Temperature Toggle" Feature** (Columns K):
 
-   * In cell J1, create a dropdown with "Fahrenheit" and "Celsius" options:
-     - Select cell J1, go to Data → Data Validation
+   * In cell K1, create a dropdown with "Fahrenheit" and "Celsius" options:
+     - Select cell K1, go to Data → Data Validation
      - Allow: List, Source: `Fahrenheit,Celsius`
    * In column K (starting K2), create a formula to display temperature based on toggle:
-     - Formula: `=IF($J$1="Celsius", I2, C2)`
+     - Formula: `=IF($K$1="Celsius", I2, C2)`
      - This shows Celsius when "Celsius" is selected, Fahrenheit otherwise
-   * Add a header in K1: "Temperature (Selected Unit)"
 
 7. **Update Temperature Category for International Use** (Column L):
 
