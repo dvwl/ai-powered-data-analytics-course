@@ -37,7 +37,7 @@ For this module, we'll work with three related datasets imported into a SQL data
 - **total_hours_worked**: Cumulative hours (INTEGER)
 
 ### `customer_transactions` Table
-- **customer_id**: Unique customer identifier (INTEGER)
+- **id**: Unique identifier (INTEGER)
 - **date**: Transaction date (DATE)
 - **location**: Store location (VARCHAR)
 - **employee_id**: Serving employee (INTEGER, FOREIGN KEY)
